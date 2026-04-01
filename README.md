@@ -53,11 +53,6 @@ real-world penetration tester would deliver to a client.
 ### Risk Score Analysis & Distribution
 ![Vulnerability Chart](task1_vulnerability_chart.png)
 
-### Report Screenshots
-![Report Title](task_1_githun_ss_5.png)
-![Vulnerabilities Found](task_1_githun_ss_3.png)
-![Risk Summary Table](task_1_githun_ss_1.png)
-
 ## 📁 Project Structure
 ```
 FUTURE_CS_01/
